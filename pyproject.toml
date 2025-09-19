@@ -38,7 +38,7 @@ django-livereload-server = "^0.3.2"
 isort = {extras = ["colors"], version = "^5.9.3"}
 pre-commit = "^2.14.0"
 pylint = "^2.10.2"
-pydocstyle = "^6.1.1"
+pydocstyle = "^6.3.0"
 pytest = "^6.2.4"
 pytest-django = "^4.4.0"
 pyupgrade = "^2.24.0"
